@@ -1,0 +1,9 @@
+D:\JT\CoreProgramm\Blog\C#\WindowsService\WindowsService\bin\Debug\WindowsService.exe.config
+D:\JT\CoreProgramm\Blog\C#\WindowsService\WindowsService\bin\Debug\WindowsService.exe
+D:\JT\CoreProgramm\Blog\C#\WindowsService\WindowsService\bin\Debug\WindowsService.pdb
+D:\JT\CoreProgramm\Blog\C#\WindowsService\WindowsService\obj\Debug\WindowsService.csprojAssemblyReference.cache
+D:\JT\CoreProgramm\Blog\C#\WindowsService\WindowsService\obj\Debug\WindowsService.csproj.CoreCompileInputs.cache
+D:\JT\CoreProgramm\Blog\C#\WindowsService\WindowsService\obj\Debug\WindowsService.exe
+D:\JT\CoreProgramm\Blog\C#\WindowsService\WindowsService\obj\Debug\WindowsService.pdb
+D:\JT\CoreProgramm\Blog\C#\WindowsService\WindowsService\obj\Debug\WindowsService.ProjectInstaller.resources
+D:\JT\CoreProgramm\Blog\C#\WindowsService\WindowsService\obj\Debug\WindowsService.csproj.GenerateResource.cache

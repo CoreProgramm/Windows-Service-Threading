@@ -1,0 +1,23 @@
+﻿Installing assembly 'D:\JT\CoreProgramm\Blog\C#\WindowsService\WindowsService\bin\Debug\WindowsService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\JT\CoreProgramm\Blog\C#\WindowsService\WindowsService\bin\Debug\WindowsService.InstallLog
+   assemblypath = D:\JT\CoreProgramm\Blog\C#\WindowsService\WindowsService\bin\Debug\WindowsService.exe
+Rolling back assembly 'D:\JT\CoreProgramm\Blog\C#\WindowsService\WindowsService\bin\Debug\WindowsService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\JT\CoreProgramm\Blog\C#\WindowsService\WindowsService\bin\Debug\WindowsService.InstallLog
+   assemblypath = D:\JT\CoreProgramm\Blog\C#\WindowsService\WindowsService\bin\Debug\WindowsService.exe
+Installing assembly 'D:\JT\CoreProgramm\Blog\C#\WindowsService\WindowsService\bin\Debug\WindowsService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\JT\CoreProgramm\Blog\C#\WindowsService\WindowsService\bin\Debug\WindowsService.InstallLog
+   assemblypath = D:\JT\CoreProgramm\Blog\C#\WindowsService\WindowsService\bin\Debug\WindowsService.exe
+Installing service CoreProgramm1...
+Service CoreProgramm1 has been successfully installed.
+Creating EventLog source CoreProgramm1 in log Application...
+Committing assembly 'D:\JT\CoreProgramm\Blog\C#\WindowsService\WindowsService\bin\Debug\WindowsService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\JT\CoreProgramm\Blog\C#\WindowsService\WindowsService\bin\Debug\WindowsService.InstallLog
+   assemblypath = D:\JT\CoreProgramm\Blog\C#\WindowsService\WindowsService\bin\Debug\WindowsService.exe
